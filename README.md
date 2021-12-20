@@ -38,7 +38,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/hanzBott/HanzzZBot.git
+git clone https://github.com/Xinz-Team/XinzBot.git
 cd XinzBot
 npm install
 node main
